@@ -1,7 +1,5 @@
 # BI_smart_home_dataset
 
-# BI_smart_home_dataset
-
 | Listes des appareils | Conditions méteo | Liste des lieux|
 | --------- | --------- | -----:|
 | Solar | Temperature_far | Barn |
