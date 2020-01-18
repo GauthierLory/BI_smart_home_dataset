@@ -19,8 +19,8 @@
 
 
 - [x] Nettoyer les données
-  -[x] Suppression de la colonnes  House overall » et calcul de la colonne « real use »
-  -[x] Suppression de la colonne « gen » qui est la meme donnée que celle de l'appareil «Solar»
+  - [x] Suppression de la colonnes  House overall » et calcul de la colonne « real use »
+  - [x] Suppression de la colonne « gen » qui est la meme donnée que celle de l'appareil «Solar»
   
 - [x] Normaliser les chiffres à virgules
     - [x] Pour les données météos
@@ -32,8 +32,8 @@
     - [ ] Valider le schéma
     
 - [ ] Etablir des mesures
-    - [ ] KPI 1
-    - [ ] KPI 2
+    - [ ] Mesurer le consommer a un temps X
+    - [ ] Mesurer le générer à un temps X
     
   ![](diagram.png)
 
