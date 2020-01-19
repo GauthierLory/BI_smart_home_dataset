@@ -31,7 +31,7 @@
     - [x] Etablier les liens entre les feuilles
     - [x] Valider le schéma
     
-- [] Etablir des mesures
+- [ ] Etablir des mesures
     - [x] Mesurer le consommer a un temps X
     - [x] Mesurer le générer à un temps X
     - [ ] Calculer le total d'énergie consommé
