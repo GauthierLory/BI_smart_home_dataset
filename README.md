@@ -26,14 +26,15 @@
     - [x] Pour les données météos
     - [x] Pour les conso des appareils
     
-- [ ] Créer un diagramme 
+- [x] Créer un diagramme 
     - [x] Séparer par différentes feuilles les données
     - [x] Etablier les liens entre les feuilles
-    - [ ] Valider le schéma
+    - [x] Valider le schéma
     
-- [ ] Etablir des mesures
-    - [ ] Mesurer le consommer a un temps X
-    - [ ] Mesurer le générer à un temps X
+- [] Etablir des mesures
+    - [x] Mesurer le consommer a un temps X
+    - [x] Mesurer le générer à un temps X
+    - [ ] Calculer le total d'énergie consommé
     
   ![](diagram.PNG)
 
