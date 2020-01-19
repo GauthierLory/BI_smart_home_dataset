@@ -46,7 +46,6 @@
 
 Votre arborescence doit ressembler à ca :
 + Data Sheet
-    + smart_home_place_sheet
     + smart_home_scan_sheet
     + smart_home_things_sheet
     + smart_home_weather_sheet
