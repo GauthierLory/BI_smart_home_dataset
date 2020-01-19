@@ -35,7 +35,7 @@
     - [ ] Mesurer le consommer a un temps X
     - [ ] Mesurer le générer à un temps X
     
-  ![](diagram.png)
+  ![](diagram.PNG)
 
 
 ### Comment procéder :
