@@ -41,7 +41,7 @@
 
 ### Comment procéder :
 1. Faite un clone du repo et mettez le à la racine du "C:\" tres important ! Sinon conflit avec Power BI
-2. Allez sur https://drive.google.com/open?id=19RK99wd1I-AnZ9ABpW6mgQDoPVoS3jzL
+2. Allez sur shorturl.at/wxyI0
 3. Téléchargez les fichiers et mettez les dans le dossier "BI_smart_home_dataset"
 4. Unzip, et laissez les fichiers les fichier excel dans le dossier DataSheet et le fichier BI à la racine
 
